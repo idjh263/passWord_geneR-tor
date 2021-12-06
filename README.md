@@ -5,7 +5,7 @@ Password generator project using Javascript
 The program initialize when the generate password button is click. 
 The program will ask the length of the password, if it has uppercase, lowercase, number and symbols. The password is limited to 5 to 128 characters and should at least have one character. 
 
-
+-UNFINISHED PROJECT
 
 #Built With:
  - HTML
@@ -15,5 +15,7 @@ The program will ask the length of the password, if it has uppercase, lowercase,
  note: HTML and CSS were supplied by the program.
 
 #Website: 
+https://idjh263.github.io/passWord_geneR-tor/
 
 #Contribution:
+Made by Irene Hipolito, with the help of GOOGLE, github projects, traversy 
