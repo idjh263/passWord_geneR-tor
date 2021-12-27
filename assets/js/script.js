@@ -14,9 +14,9 @@ var generateBtn = document.querySelector("#generate");
 
 
 
-  var refreshPage = function() {
-    location.reload();
-  };
+  // var refreshPage = function() {
+  //   location.reload();
+  // };
 
   var passwordLength = window.prompt("How many password characters do you need from 8 to 128?");
   passwordLength = Number(passwordLength); 
